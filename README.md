@@ -1,2 +1,2 @@
-# TetrisRacket
+# Tetris
 Tetris implemented in Racket
